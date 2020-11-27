@@ -4,7 +4,7 @@
 
 1. **Nombres y apellidos:** Francisco Javier Moreno Quevedo
 2. **Fecha:** 27/11/2020
-3. **Resumen del Ejercicio:** 
+3. **Resumen del Ejercicio:** Añadir los componentes necesarios para hacer funcional la aplicacion de venta de CupCakes 1/3 
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguna
 
 
